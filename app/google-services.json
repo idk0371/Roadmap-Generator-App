@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "778579516629",
+    "project_id": "roadmapgen",
+    "storage_bucket": "roadmapgen.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778579516629:android:b613cd8d1a9146c3cad65c",
+        "android_client_info": {
+          "package_name": "com.example.roadmapgenerator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpVHLg1dVnUeJoE8UG72W3Tof7svbDXfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
